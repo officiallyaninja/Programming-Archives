@@ -1,0 +1,6 @@
+<<Intro>>
+Welcome to the Number Jumbler!
+In this game all the operations(+ - * /) and numbers from 0 to (a user specified number) have been mixed up and its your job to figure out which is which
+<<Rules>>
+1. n should be positive
+2. dont try anything funny ... It makes me sad
